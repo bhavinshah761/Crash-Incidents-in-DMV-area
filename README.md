@@ -5,3 +5,4 @@ This data analysis project is carried out on Crash Incidents in the DMV area dat
 The tools used for this project are Python, R, SQL, Microsoft Excel, Jupyter notebook & R Studio. The libraries used are pandas, numpy, matplotlib, pandasql & seaborn.
 Data pre-processing & Data cleaning is done using Python & Excel.
 Linear Regression model is used & the count of crash accident cases in the future years are predicted using sklearn library.
+Machine learning model (KNN algorithm) has achieved accuracy rate of 69% which showcases the model potential in understanding and forecasting crash incidents.
